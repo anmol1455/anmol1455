@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @anmol1455
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi, I’m Anmol Singh
+I’m interested in Data science, python, java and web development
+I’m currently learning React js
+
+How to reach me anmol.write@gmail.com
 
 <!---
 anmol1455/anmol1455 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
